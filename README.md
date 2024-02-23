@@ -1,4 +1,4 @@
-## Hi, I'm Moira!
+## Hi, I'm Moira!👋🏻
 I'm Full stack JavaScript developer based in Chile, and i'm passionate about solving problems.<br/>
 💭 Currently learning about QA!<br/>
 <!--✨ Fun Fact -->
